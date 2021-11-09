@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # monsters-rolodex-pro
 
 ### Project Link: https://nick2498.github.io/monsters-rolodex-pro/
@@ -73,4 +72,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> 600082d (Initialize project using Create React App)
