@@ -1,7 +1,7 @@
 # monsters-rolodex-pro
 
 ### Project Link: https://nick2498.github.io/monsters-rolodex-pro/
-=======
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
